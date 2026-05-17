@@ -1,6 +1,28 @@
 # 💫 About Me:
-I’m Ashutosh Narayan, a Computer Science student at Chandigarh University. I enjoy coding and solving problems, especially using C, C++ and Data Structures & Algorithms, where I like focusing on writing clean and efficient code.<br><br>I also work with Full Stack development, using React, Node.js, Firebase, HTML, CSS, and JavaScript, and I’m comfortable with Git and GitHub for managing and collaborating on projects.<br><br>I’m someone who believes in learning by doing. I try to improve a little every day—whether it’s coding, understanding concepts better, or exploring new technologies.<br><br>My aim is simple: to become a strong developer who can build useful and scalable solutions.
+# Hi, I'm Ashutosh Narayan 👋
 
+Full Stack Developer | 2nd Year CS Student at Chandigarh University
+
+## 🚀 What I've Built
+
+**CivicSense** — AI civic complaint system where citizens report issues via phone call in any Indian language. AI pipeline processes, classifies and routes complaints to government officers in under 15 seconds.
+- 🌐 Live: [civicsense-alpha.vercel.app](https://civicsense-alpha.vercel.app)
+- Built with: Twilio · Groq Whisper · Gemini 2.0 · React.js · Node.js · MongoDB
+
+**HostelHive** — Full-stack hostel management platform with AI chatbot handling 80% of student queries automatically.
+
+**Parshikshan** — Internship recommendation engine matching student profiles to 500+ listings with fit-score algorithm.
+
+## 🏆 Achievement
+Selected for **India Innovates 2026** offline showcase at Bharat Mandapam, New Delhi from 50,000+ participants — top 10% nationally.
+
+## 💻 Tech Stack
+React.js · Node.js · MongoDB · Firebase · Twilio · JavaScript · Git · Vercel
+
+## 📫 Contact
+- 📧 ashutosh.narayan.dev@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/ashutosh-narayan-97b98031b)
+- 🌐 [Portfolio](https://ashutosh467.github.io/portfolio)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-narayan-97b98031b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashu8472cse@gmail.com) 
