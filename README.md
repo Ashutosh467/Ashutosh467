@@ -19,7 +19,7 @@ Selected for **India Innovates 2026** offline showcase at Bharat Mandapam, New D
 React.js · Node.js · MongoDB · Firebase · Twilio · JavaScript · Git · Vercel
 
 ## 📫 Contact
-- 📧 ashutosh.narayan.dev@gmail.com
+- 📧 ashucse8472@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/ashutosh-narayan-97b98031b)
 - 🌐 [Portfolio](https://ashutosh467.github.io/portfolio)
 
