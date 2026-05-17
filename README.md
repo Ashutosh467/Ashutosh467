@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Ashutosh Narayan 👋
 
 Full Stack Developer | 2nd Year CS Student at Chandigarh University
