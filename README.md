@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi, I'm Ashutosh Narayan 👋
@@ -68,11 +69,15 @@ Matches student profiles to **500+ internship listings** using a custom fit-scor
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutosh467&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ashutosh467&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ashutosh467&theme=dark&hide_border=false)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh467&theme=dark&hide_border=false&layout=compact&langs_count=8)
+<img src="https://streak-stats.demolab.com/?user=Ashutosh467&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh467&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
@@ -82,7 +87,7 @@ Matches student profiles to **500+ internship listings** using a custom fit-scor
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ashutosh467&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Ashutosh467&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
 
 </div>
 
