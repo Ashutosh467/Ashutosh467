@@ -27,11 +27,14 @@ Selected for **India Innovates 2026** offline showcase at Bharat Mandapam, New D
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashutosh467&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" /><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh467&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh467&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com/?user=Ashutosh467&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh467&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=html" alt="Top Languages" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Ashutosh467&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 
 </div>
 
@@ -41,7 +44,7 @@ Selected for **India Innovates 2026** offline showcase at Bharat Mandapam, New D
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashutosh467&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ashutosh467&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </div>
 
@@ -51,7 +54,7 @@ Selected for **India Innovates 2026** offline showcase at Bharat Mandapam, New D
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
