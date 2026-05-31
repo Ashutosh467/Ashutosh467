@@ -17,7 +17,7 @@
 
 ## 🏆 Highlight
 
-> 🇮🇳 **Selected for India Innovates 2026** — Offline showcase at **Bharat Mandapam, New Delhi**
+> 🇮🇳 **Selected for India Innovates 2026** — Offline showcase at **Bharat Mandapam, New Delhi**  
 > Top 10% nationally out of 50,000+ participants.
 
 ---
@@ -27,7 +27,7 @@
 ### 🗣️ CivicSense — AI Civic Complaint System
 Citizens report civic issues via **phone call in any Indian language**. An AI pipeline processes, classifies, and routes complaints to the right government officer in **under 15 seconds**.
 
-🌐 **Live:** [civicsense-alpha.vercel.app](https://civicsense-alpha.vercel.app)
+🌐 **Live:** [civicsense-alpha.vercel.app](https://civicsense-alpha.vercel.app)  
 `Twilio` `Groq Whisper` `Gemini 2.0` `React.js` `Node.js` `MongoDB`
 
 ---
@@ -68,11 +68,11 @@ Matches student profiles to **500+ internship listings** using a custom fit-scor
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutosh467&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutosh467&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ashutosh467&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ashutosh467&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh467&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh467&theme=dark&hide_border=false&layout=compact&langs_count=8)
 
 </div>
 
@@ -82,7 +82,7 @@ Matches student profiles to **500+ internship listings** using a custom fit-scor
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ashutosh467&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ashutosh467&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -98,21 +98,11 @@ Matches student profiles to **500+ internship listings** using a custom fit-scor
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Ashutosh467&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 <div align="center">
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Ashutosh467&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"First, solve the problem. Then, write the code."*
 
 </div>
 
